@@ -2,16 +2,13 @@
 This Power BI project focuses on analyzing healthcare data to derive meaningful insights and enhance decision-making processes in the healthcare domain.
 # Healthcare Analysis Power BI Project
 
-![Project Image](url_to_project_image.png)
+![Project Image](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/BACKGROUND.jpg)
 
-## Overview
-
-This Power BI project focuses on analyzing healthcare data to derive meaningful insights and enhance decision-making processes in the healthcare domain.
 
 ## Project Highlights
 
 - **Objective:** Perform in-depth analysis of healthcare data to identify trends, patterns, and key metrics.
-- **Tools Used:** Power BI, SQL, etc.
+- **Tools Used:** Power BI, SQL
 - **Data Source:** [https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data]
 
 ## Key Features
@@ -28,15 +25,16 @@ This Power BI project focuses on analyzing healthcare data to derive meaningful 
   - Blood group
 - **Dashboard Section:**
   - Visualization of patient-specific details.
+![PATIENTINFO](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/Page_page-0004.jpg)
 
-### 2. Case Summary Page
+### 2. Case Analysis Page
 - **Analysis Metrics:**
   - Patients' age and gender distribution.
   - Number of emergency cases.
   - Categorization of patients by emergency, urgent, elective.
 - **Dashboard Section:**
   - Visualizations representing case summary analysis.
-
+![Case Analysis](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/Page_page-0002.jpg)
 ### 3. Hospital Summary Page
 - **Information Included:**
   - Doctors' attendance information.
@@ -44,4 +42,4 @@ This Power BI project focuses on analyzing healthcare data to derive meaningful 
   - Hospital bills for each patient.
 - **Dashboard Section:**
   - Visual representation of hospital-related metrics.
-
+  - ![PATIENTINFROMATION](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/Page_page-0003.jpg)
